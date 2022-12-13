@@ -1,0 +1,96 @@
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\bin\Debug\netstandard2.0\XamarinFirebaseApp.deps.json
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\bin\Debug\netstandard2.0\XamarinFirebaseApp.dll
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\bin\Debug\netstandard2.0\XamarinFirebaseApp.pdb
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.csproj.AssemblyReference.cache
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\ChangePassword.xaml.g.cs
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\ForgotPasswordPage.xaml.g.cs
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\RegisterUser.xaml.g.cs
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\Student\StudentDetails.xaml.g.cs
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\Student\StudentEdit.xaml.g.cs
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\Student\StudentEntry.xaml.g.cs
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\Student\StudentListPage.xaml.g.cs
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.AssemblyInfoInputs.cache
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.AssemblyInfo.cs
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.csproj.CoreCompileInputs.cache
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamlC.stamp
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.dll
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\refint\XamarinFirebaseApp.dll
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.pdb
+E:\demo-project-master-Xamarin-XamarinFirebaseApp (1)\demo-project-master-Xamarin-XamarinFirebaseApp\Xamarin\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\ref\XamarinFirebaseApp.dll
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\bin\Debug\netstandard2.0\XamarinFirebaseApp.deps.json
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\bin\Debug\netstandard2.0\XamarinFirebaseApp.dll
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\bin\Debug\netstandard2.0\XamarinFirebaseApp.pdb
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.csproj.AssemblyReference.cache
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\ChangePassword.xaml.g.cs
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\ForgotPasswordPage.xaml.g.cs
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\RegisterUser.xaml.g.cs
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\Student\StudentDetails.xaml.g.cs
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\Student\StudentEdit.xaml.g.cs
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\Student\StudentEntry.xaml.g.cs
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\Student\StudentListPage.xaml.g.cs
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.AssemblyInfoInputs.cache
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.AssemblyInfo.cs
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.csproj.CoreCompileInputs.cache
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamlC.stamp
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.dll
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\refint\XamarinFirebaseApp.dll
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.pdb
+E:\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\ref\XamarinFirebaseApp.dll
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\bin\Debug\netstandard2.0\XamarinFirebaseApp.deps.json
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\bin\Debug\netstandard2.0\XamarinFirebaseApp.dll
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\bin\Debug\netstandard2.0\XamarinFirebaseApp.pdb
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.csproj.AssemblyReference.cache
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\ChangePassword.xaml.g.cs
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\ForgotPasswordPage.xaml.g.cs
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\RegisterUser.xaml.g.cs
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\Student\StudentDetails.xaml.g.cs
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\Student\StudentEdit.xaml.g.cs
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\Student\StudentEntry.xaml.g.cs
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\Student\StudentListPage.xaml.g.cs
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.AssemblyInfoInputs.cache
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.AssemblyInfo.cs
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.csproj.CoreCompileInputs.cache
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.dll
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\refint\XamarinFirebaseApp.dll
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.pdb
+C:\Users\anita\Downloads\XamarinFirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\ref\XamarinFirebaseApp.dll
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\bin\Debug\netstandard2.0\XamarinFirebaseApp.deps.json
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\bin\Debug\netstandard2.0\XamarinFirebaseApp.dll
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\bin\Debug\netstandard2.0\XamarinFirebaseApp.pdb
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.csproj.AssemblyReference.cache
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\ChangePassword.xaml.g.cs
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\ForgotPasswordPage.xaml.g.cs
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\RegisterUser.xaml.g.cs
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\Student\StudentDetails.xaml.g.cs
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\Student\StudentEdit.xaml.g.cs
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\Student\StudentEntry.xaml.g.cs
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\Views\Student\StudentListPage.xaml.g.cs
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.AssemblyInfoInputs.cache
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.AssemblyInfo.cs
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.csproj.CoreCompileInputs.cache
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.dll
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\refint\XamarinFirebaseApp.dll
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\XamarinFirebaseApp.pdb
+C:\Users\angel\Downloads\FirebaseAppAngeles (1)\FirebaseApp\XamarinFirebaseApp\XamarinFirebaseApp\obj\Debug\netstandard2.0\ref\XamarinFirebaseApp.dll

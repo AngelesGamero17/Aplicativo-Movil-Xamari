@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinFirebaseApp.Views.Student.StudentEdit">
+    <ContentPage.Content>
+        <StackLayout Padding="15" VerticalOptions="CenterAndExpand">
+            <Label Text="Modificar Angenda" 
+                HorizontalOptions="Center"
+                  FontSize="Large"/>
+            <Image x:Name="StudentImage"
+                   HeightRequest="150" BackgroundColor="#bf5f82Blue">
+
+            
+            </Image>
+
+
+            <Entry x:Name="TxtId"
+                   IsVisible="false"/>
+
+            <Entry x:Name="TxtName"
+                   Placeholder="Pon el dia"/>
+            <Entry x:Name="TxtEmail"
+                   Placeholder="Pon tu actividad"
+                  />
+            <Button Text="Modificar"
+                    x:Name="ButtonUpdate"
+                    CornerRadius="15"
+                    Clicked="ButtonUpdate_Clicked" />
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinFirebaseApp.Views.HomePage" NavigationPage.HasBackButton="False"
+             Title="Bienvendio a tu agenda"
+            >
+    <ContentPage.Content>
+        <ScrollView>
+        <StackLayout Padding="16">
+            <Button Text="" x:Name="LblUser"
+                    CornerRadius="20"
+                    Clicked="BtnStudentList_Clicked"
+                    BackgroundColor="#00b8d4"
+                    ></Button>
+           
+            
+            <Label Text="* Bienvenido al sistema de Agenda, aquí podras realizar lo siguiente:
+"
+                VerticalOptions="Center" 
+                HorizontalOptions="Center"
+                   FontSize="22"
+                   TextColor="Black"
+                   />
+            <Label Text="*Crea listas de tareas"
+                VerticalOptions="Center" 
+               
+                  FontSize="22"
+                   TextColor="Black"/>
+            <Label Text="*separa las actividades personales y del trabajo    
+                  
+                 
+"
+                VerticalOptions="Center" 
+                HorizontalOptions="Center"
+                 FontSize="22"
+                   TextColor="Black"/>
+            <Label Text="*Prioriza las actividades  
+asigna tiempos de duracion                  
+"
+                VerticalOptions="Center" 
+                HorizontalOptions="Center"
+                   FontSize="22"
+                   TextColor="Black"/>
+            <Image
+                Source="FON1.jfif"></Image>
+
+            <Button Text="Agregar Agenda"
+                    x:Name="BtnStudentList"
+                    Clicked="BtnStudentList_Clicked"
+                    BackgroundColor="#00b8d4"></Button>
+            <Button Text="Cambiar contraseña" x:Name="BtnChangePassword" Clicked="BtnChangePassword_Clicked"
+                    BackgroundColor="#00b8d4"></Button>
+        </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+  
+</ContentPage>
